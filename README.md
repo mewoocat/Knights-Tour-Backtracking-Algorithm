@@ -3,8 +3,7 @@
 Solution to the Knight's Tour problem for n x n grid
 
 Example Output
-        ![Example Output](![image](https://user-images.githubusercontent.com/97066700/171524665-62b94cdc-9cfc-4e9f-a577-f1c01fa80d12.png)
-)
+        ![Example Output](Output.png)
 
 Function
         This program is backtracking solution to the Knight's Tour problem for n x n grid.
