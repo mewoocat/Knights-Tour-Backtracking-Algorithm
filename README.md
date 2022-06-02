@@ -6,11 +6,14 @@ Example Output
 
 ![Example Output](Output.png)
 
-Function
-        This program is backtracking solution to the Knight's Tour problem for n x n grid.
-        Program takes input for grid size and starting position on the grid.
-        The backtracking algorithm searches down each possible solution path until a solution is found.
-        If a solution is not found then the function returns false.
+Function:
+        - This program is backtracking solution to the Knight's Tour problem for n x n grid.
+        - Program takes input for grid size and starting position on the grid.
+        - The backtracking algorithm searches down each possible solution path until a solution is found.
+        - If a solution is not found then the function returns false.
+
+Dependecies:
+  - Python 3
 
 Usage
     Download knights.py
