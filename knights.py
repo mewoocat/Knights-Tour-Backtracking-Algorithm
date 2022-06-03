@@ -1,7 +1,5 @@
 # Backtracking Project
-# Andrew Deerman
-# CS 317-03
-# 13 April 2022
+
 
 # gets user input for size of chessboard
 size = int(input("Enter chessboard size: "))
